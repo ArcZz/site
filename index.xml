@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhang, Zhi</title>
-    <link>https://zhangzhi.info/</link>
+    <link>https://arczz.github.io/site/</link>
     <description>Recent content on Zhang, Zhi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://zhangzhi.info/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://arczz.github.io/site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://zhangzhi.info/about/</link>
+      <link>https://arczz.github.io/site/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zhangzhi.info/about/</guid>
+      <guid>https://arczz.github.io/site/about/</guid>
       <description>Self-introduction  About -- I am a driven, hard-working individual with an interest in work that allows me to find creative solution to problems.</description>
     </item>
     
     <item>
       <title>CV</title>
-      <link>https://zhangzhi.info/cv/</link>
+      <link>https://arczz.github.io/site/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zhangzhi.info/cv/</guid>
+      <guid>https://arczz.github.io/site/cv/</guid>
       <description>Languages   Chinese (native) English (fluent)  Review CV  Download CV  </description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://zhangzhi.info/experience/</link>
+      <link>https://arczz.github.io/site/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zhangzhi.info/experience/</guid>
+      <guid>https://arczz.github.io/site/experience/</guid>
       <description>RESEARCH ASSISTANTSHIP  FatPlants Web Portal, Digital Biology Lab Feb.</description>
     </item>
     
     <item>
       <title>Project</title>
-      <link>https://zhangzhi.info/project/</link>
+      <link>https://arczz.github.io/site/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zhangzhi.info/project/</guid>
+      <guid>https://arczz.github.io/site/project/</guid>
       <description>Digital Biology Lab Project  Plant Protein Phosphorylation Database Project, Digital Biology Lab  Project Link: http://www.</description>
     </item>
     
     <item>
       <title>Terms &amp; policies</title>
-      <link>https://zhangzhi.info/terms/</link>
+      <link>https://arczz.github.io/site/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zhangzhi.info/terms/</guid>
+      <guid>https://arczz.github.io/site/terms/</guid>
       <description>This is my personal website written and edited by me.</description>
     </item>
     
