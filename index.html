@@ -1033,6 +1033,17 @@
         }
         requestAnimationFrame(waitForLanding);
       });
+
+      // Arrival: the ball wobbles, lets one Pokémon out, and recalls it a second later.
+      // Any real hover or click before the recall takes over and cancels it.
+      let userTouched = false;
+      trigger.addEventListener('pointerenter', () => { userTouched = true; });
+      trigger.addEventListener('pointerdown', () => { userTouched = true; });
+      if (!reduceMotion.matches) {
+        trigger.classList.add('is-flying');
+        setTimeout(() => { if (!userTouched) openBall(); }, 720);
+        setTimeout(() => { if (!userTouched && !pinned) closeBall(); }, 720 + 940 + 1000);
+      }
     })();
   </script>
 </body>
